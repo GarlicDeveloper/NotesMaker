@@ -47,15 +47,6 @@ Mistral is an advanced **Large Language Model (LLM)** designed for efficiency an
 - Explore additional AI models for specialized topics
 
 ## 💡 Credits
-Developed by [Your Name] using **Ollama + Mistral**.
-
-```
-
----
-
-### 📌 GitHub Repository Description
-```
-Automated Note Generation using Ollama & Mistral 🤖
-📌 This project uses **Ollama** and the **Mistral** model to generate structured notes from a given list of topics in a `.txt` file. It supports both **printed output** and **file saving**.
-🚀 Fast, efficient, and easy to use!
+Developed by Vikrant using **Ollama + Mistral**.
+Special Thanks To ED Donner
 
