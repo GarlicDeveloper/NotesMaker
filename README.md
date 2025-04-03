@@ -45,6 +45,7 @@ Mistral is an advanced **Large Language Model (LLM)** designed for efficiency an
 - Implement batch processing for efficiency
 - Improve prompt engineering for optimized note generation
 - Explore additional AI models for specialized topics
+- Feel free to send pull requests and contribute to this project
 
 ## 💡 Credits
 Developed by Vikrant using **Ollama + Mistral**.
