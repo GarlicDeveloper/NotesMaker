@@ -1,0 +1,2 @@
+Search Techniques - Sequential Search/Linear Search, Variant of Sequential Search,Sentinel Search, Binary Search, Fibonacci Search, and Indexed Sequential Search.
+Types of Sorting-Internal and External Sorting, General Sort Concepts-Sort Order, Stability, Efficiency, Number of Passes, Comparison Based Sorting Methods-Bubble Sort, Insertion Sort, Selection Sort, Quick Sort, Shell Sort, Non-comparison Based Sorting Methods-Radix Sort, Counting Sort, and Bucket Sort, Comparison of All Sorting Methods and their complexities
